@@ -1,0 +1,8 @@
+/* style.css */
+
+body {
+    color: red;
+}
+
+/* or, if you only want certain elements…
+p, h1, h2, h3, span { color: red; } */
